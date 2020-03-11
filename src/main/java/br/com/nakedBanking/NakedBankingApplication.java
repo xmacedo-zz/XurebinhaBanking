@@ -1,4 +1,4 @@
-package br.com.NakedBanking;
+package br.com.nakedBanking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
