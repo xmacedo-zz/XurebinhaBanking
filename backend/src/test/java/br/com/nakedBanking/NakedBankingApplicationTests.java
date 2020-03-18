@@ -1,4 +1,4 @@
-package br.com.NakedBanking;
+package br.com.nakedBanking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
