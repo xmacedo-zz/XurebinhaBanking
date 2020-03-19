@@ -1,4 +1,4 @@
-package br.com.nakedBanking.data.dto;
+package br.com.xurebinhaBanking.data.dto;
 
 import lombok.Data;
 

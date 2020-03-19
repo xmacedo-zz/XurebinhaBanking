@@ -1,4 +1,4 @@
-package br.com.nakedBanking.controller;
+package br.com.xurebinhaBanking.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

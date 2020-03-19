@@ -1,4 +1,4 @@
-package br.com.nakedBanking.data.model;
+package br.com.xurebinhaBanking.data.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
