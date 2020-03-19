@@ -8,7 +8,7 @@
 - Crislaine Soares ( Crislainesoares)
 - Leo Miranda ( leomiranda1995@gmail.com - leomiranda1995)
 
-## [Backend](https://github.com/xmacedo/XurebinhaBanking/backend)
+## [Backend](https://github.com/xmacedo/XurebinhaBanking/tree/master/backend)
 ## Tecnologias
 - Java
 - MongoDB
