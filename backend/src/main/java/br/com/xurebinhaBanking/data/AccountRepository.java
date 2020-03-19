@@ -1,4 +1,4 @@
-package br.com.nakedBanking.data;
+package br.com.xurebinhaBanking.data;
 
 import org.springframework.stereotype.Repository;
 
