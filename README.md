@@ -12,3 +12,9 @@
 ## Tecnologias
 - Java
 - MongoDB
+
+
+## Canais
+[Trello](https://trello.com/b/clcoaCaL/organiza%C3%A7%C3%A3o-do-projeto)
+
+[Discord](https://discord.gg/sEwdFw)
